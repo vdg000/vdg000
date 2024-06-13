@@ -1,4 +1,3 @@
-JAVA"""
 public class Main {
   static String encrypt(String input) {
     StringBuilder encrypted = new StringBuilder();
@@ -56,4 +55,4 @@ public class Main {
 }
 
 //have fun  :3
-"""
+
